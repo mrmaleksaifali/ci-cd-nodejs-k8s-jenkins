@@ -195,9 +195,8 @@ docker exec -it jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 ```
 
 #### 4. Access Jenkins at:
-```
-http://<Your-Public-IP>:8080
-```
+-**Access**
+URL: http://<Your-Public-IP>:8080
 
 ### 🔌 Step 5: Configure Jenkins
 
