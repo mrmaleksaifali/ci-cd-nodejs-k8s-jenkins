@@ -195,7 +195,7 @@ docker exec -it jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 ```
 
 #### 4. Access Jenkins at:
--**Access**
+- **Access**:  
 URL: http://<Your-Public-IP>:8080
 
 ### 🔌 Step 5: Configure Jenkins
@@ -326,12 +326,13 @@ pipeline {
 }
 ```
 
-Save & click Build Now
+#### Save & click Build Now
 
+#### Verify Kubernetes Service
 ```
 kubectl get svc
 ```
-🌐 Step 7: Access the App
-```
-http://<Node-IP>:<NodePort>
-```
+
+### 🌐 Step 7: Access the App
+- **Access**:  
+URL: http://<Node-IP>:<NodePort>
