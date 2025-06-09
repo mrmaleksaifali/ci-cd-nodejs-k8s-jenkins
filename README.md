@@ -338,3 +338,6 @@ kubectl get svc
 ```
 http://<Node-IP>:<NodePort>
 ```
+### ✅ Final Output: Application Response
+![Output Screenshot](output.png)
+
