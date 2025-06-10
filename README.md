@@ -209,8 +209,8 @@ In Jenkins UI:
 - Under the **Available** tab, search and install:
   - Pipeline: Stage View
   - Docker Pipeline
-  - Kubernetes CLI Plugin  
-    📥 [Download Plugin (.hpi)](https://www.dropbox.com/s/xyz/kubernetes-cd.hpi?dl=1)
+   - Kubernetes CLI Plugin  
+    *(Upload .hpi manually if offline)*
 
 ---
 
