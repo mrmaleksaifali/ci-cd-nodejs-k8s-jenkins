@@ -207,11 +207,10 @@ In Jenkins UI:
 
 - Go to **Manage Jenkins** → **Manage Plugins**
 - Under the **Available** tab, search and install:
-  - `Pipeline: Stage View`
-  - `Docker Pipeline`
-  - `Kubernetes CLI Plugin`  
-    *(Upload `.hpi` manually if offline)*
-
+  - Pipeline: Stage View
+  - Docker Pipeline
+  - Kubernetes CLI Plugin  
+    *(Upload manually if offline: [Download Plugin (.hpi)](https://yourdomain.com/path/kubernetes-cd.hpi))*
 ---
 
 #### 2. Add Credentials in Jenkins
